@@ -1,0 +1,69 @@
+body{
+    background-color: lightpink;
+}
+
+#Header{
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border: solid 8px black;
+    background-color: #6807a0;
+}
+
+#Header h1{
+    font-size: 60px;
+    font-family: "Passion One";
+    color: white;
+    font-weight: bold;
+} 
+
+p{
+    color: #6807a0;
+    font-family: "Ariel";
+    font-weight: bold;
+    font-size: 35px;
+}
+
+h2{
+    color: lightgoldenrodyellow;
+    font-size: 40px;
+    font-family: "Ariel";
+    margin-bottom: 0px;
+}
+
+#Tangled{
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border: solid 8px black;
+    text-align: center;
+    padding: 15px;
+    background-color: lightgoldenrodyellow;
+    border-radius: 30px 80px;
+}
+
+#Moana{
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5px;
+    border: solid 8px black;
+    text-align: center;
+    padding: 15px;
+    background-color: lightgoldenrodyellow;
+    border-radius: 30px 80px;
+}
+
+#Frog{
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border: solid 8px black;
+    text-align: center;
+    padding: 15px;
+    background-color: lightgoldenrodyellow;
+    border-radius: 30px 80px;
+}
